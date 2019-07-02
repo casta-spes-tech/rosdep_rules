@@ -11,7 +11,7 @@ Our recomended filename is `10-cst.list`
 And the contents of the file should be:
 
 ```
-yaml https://github.com/casta-spes-tech/rosdep_rules/raw/master/rosdep_rules/python.yaml
+yaml https://raw.githubusercontent.com/casta-spes-tech/rosdep_rules/master/python.yaml
 ```
 
 Once you added the file make sure to run `rosdep update` (This has to be run without sudo)
