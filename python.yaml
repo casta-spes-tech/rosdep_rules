@@ -1,0 +1,10 @@
+python-cobs-pip:
+  debian:
+    pip:
+      packages: [cobs]
+  fedora:
+    pip:
+      packages: [cobs]
+  ubuntu:
+    pip:
+      packages: [cobs]
