@@ -18,7 +18,7 @@ Once you added the file make sure to run `rosdep update` (This has to be run wit
 
 You can test that the list was accepted by runnig `rosdep resolve <key-name>` for one of our custom keys
 
-To test with different Os settings use 
+To test with different os settings use 
 
 ```
 rosdep resolve <key-name> --os=OS_NAME:OS_VERSION
