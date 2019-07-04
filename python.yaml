@@ -8,8 +8,3 @@ python-cobs-pip:
   ubuntu:
     pip:
       packages: [cobs]
-cst-vesc:
-  ubuntu:
-    source:
-      type: git
-      uri: 'https://github.com/casta-spes-tech/vesc.git'
